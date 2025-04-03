@@ -1,0 +1,351 @@
+Participant_ID,Name,Email,College,State,Domain,Day,Feedback
+1,Priya Patil,priya598@outlook.com,NIT Karnataka,Kerala,Cybersecurity,Day 1,The sessions were not relevant to my interests.
+2,Rahul Nair,rahul888@outlook.com,IIT Madras,Maharashtra,Cybersecurity,Day 2,"The venue was not suitable for the event, very uncomfortable."
+3,Vihaan Das,vihaan877@outlook.com,IIT Madras,Kerala,IoT,Day 1,Networking was amazing!
+4,Rohan Singh,rohan466@yahoo.com,Anna University,Maharashtra,Cybersecurity,Day 1,"It was fine, but not very engaging."
+5,Rahul Das,rahul602@yahoo.com,NIT Karnataka,Kerala,Web Development,Day 1,"Event was decent, but nothing extraordinary."
+6,Vihaan Patil,vihaan763@yahoo.com,BITS Pilani,Maharashtra,IoT,Day 1,"I didn't learn much, felt like a waste of time."
+7,Ishaan Patil,ishaan373@yahoo.com,VIT Vellore,Telangana,Blockchain,Day 3,"Didn't enjoy the event at all, poorly organized."
+8,Rahul Reddy,rahul821@gmail.com,BITS Pilani,Karnataka,Web Development,Day 2,The sessions were not relevant to my interests.
+9,Neha Patil,neha521@yahoo.com,NIT Karnataka,Kerala,Web Development,Day 3,"It was fine, but not very engaging."
+10,Kiran Patil,kiran581@outlook.com,NIT Karnataka,Kerala,AI & ML,Day 3,I expected more from the workshops.
+11,Kiran Verma,kiran561@gmail.com,Anna University,Kerala,Cybersecurity,Day 1,"The event was okay, could have been better."
+12,Rohan Nair,rohan120@yahoo.com,Anna University,Telangana,Web Development,Day 3,"It was fine, but not very engaging."
+13,Neha Sharma,neha896@gmail.com,VIT Vellore,Kerala,Cybersecurity,Day 2,Would love more hands-on sessions.
+14,Vihaan Reddy,vihaan948@gmail.com,IIT Madras,Kerala,AI & ML,Day 2,Great experience! Learned a lot.
+15,Ishaan Verma,ishaan476@gmail.com,IIT Madras,Kerala,Web Development,Day 3,"It was fine, but not very engaging."
+16,Sanya Patil,sanya495@yahoo.com,VIT Vellore,Telangana,Web Development,Day 1,Great experience! Learned a lot.
+17,Rohan Verma,rohan477@outlook.com,VIT Vellore,Telangana,IoT,Day 1,I expected more from the workshops.
+18,Ishaan Das,ishaan795@outlook.com,VIT Vellore,Maharashtra,AI & ML,Day 3,"Didn't enjoy the event at all, poorly organized."
+19,Sanya Das,sanya957@gmail.com,VIT Vellore,Karnataka,Cybersecurity,Day 3,Would love more hands-on sessions.
+20,Rahul Gupta,rahul701@outlook.com,BITS Pilani,Maharashtra,Cybersecurity,Day 3,"Didn't enjoy the event at all, poorly organized."
+21,Aarav Das,aarav260@outlook.com,NIT Karnataka,Kerala,Web Development,Day 1,Loved the mentors and project guidance.
+22,Sanya Gupta,sanya505@yahoo.com,IIT Madras,Telangana,Cybersecurity,Day 1,"Fantastic event, would participate again."
+23,Rohan Joshi,rohan380@yahoo.com,BITS Pilani,Telangana,AI & ML,Day 2,Loved the mentors and project guidance.
+24,Rahul Singh,rahul867@gmail.com,Anna University,Maharashtra,Web Development,Day 1,"I didn't learn much, felt like a waste of time."
+25,Rahul Gupta,rahul296@gmail.com,IIT Madras,Karnataka,Blockchain,Day 1,"Didn't enjoy the event at all, poorly organized."
+26,Aarav Iyer,aarav631@yahoo.com,BITS Pilani,Telangana,IoT,Day 3,"Event was decent, but nothing extraordinary."
+27,Kiran Nair,kiran672@outlook.com,Anna University,Tamil Nadu,IoT,Day 2,"The event was okay, could have been better."
+28,Kiran Reddy,kiran759@yahoo.com,IIT Madras,Telangana,Web Development,Day 3,"Fantastic event, would participate again."
+29,Priya Singh,priya919@gmail.com,NIT Karnataka,Karnataka,Cybersecurity,Day 3,I expected more from the workshops.
+30,Rohan Joshi,rohan254@gmail.com,VIT Vellore,Maharashtra,IoT,Day 1,The sessions were not relevant to my interests.
+31,Rahul Gupta,rahul108@outlook.com,BITS Pilani,Telangana,Cybersecurity,Day 3,"I didn't learn much, felt like a waste of time."
+32,Rohan Das,rohan979@yahoo.com,BITS Pilani,Karnataka,AI & ML,Day 3,"Didn't enjoy the event at all, poorly organized."
+33,Kiran Singh,kiran310@gmail.com,NIT Karnataka,Tamil Nadu,Cybersecurity,Day 3,Great experience! Learned a lot.
+34,Vihaan Joshi,vihaan688@yahoo.com,VIT Vellore,Karnataka,Blockchain,Day 1,Great experience! Learned a lot.
+35,Aarav Das,aarav902@outlook.com,Anna University,Telangana,IoT,Day 1,Networking was amazing!
+36,Vihaan Patil,vihaan923@outlook.com,VIT Vellore,Telangana,IoT,Day 2,"I didn't learn much, felt like a waste of time."
+37,Neha Joshi,neha735@outlook.com,NIT Karnataka,Kerala,Blockchain,Day 3,"Event was decent, but nothing extraordinary."
+38,Rohan Verma,rohan235@gmail.com,IIT Madras,Maharashtra,Web Development,Day 2,Would love more hands-on sessions.
+39,Priya Das,priya361@yahoo.com,IIT Madras,Telangana,Blockchain,Day 1,"Event was decent, but nothing extraordinary."
+40,Priya Reddy,priya257@gmail.com,NIT Karnataka,Tamil Nadu,Cybersecurity,Day 2,Would love more hands-on sessions.
+41,Vihaan Joshi,vihaan119@gmail.com,Anna University,Karnataka,Blockchain,Day 2,"It was fine, but not very engaging."
+42,Priya Patil,priya570@gmail.com,Anna University,Telangana,Blockchain,Day 1,The event was too fast-paced and overwhelming.
+43,Vihaan Joshi,vihaan989@yahoo.com,NIT Karnataka,Maharashtra,IoT,Day 1,The sessions were informative but could be more detailed.
+44,Neha Sharma,neha365@gmail.com,IIT Madras,Tamil Nadu,AI & ML,Day 2,"Didn't enjoy the event at all, poorly organized."
+45,Ananya Gupta,ananya748@gmail.com,NIT Karnataka,Telangana,Cybersecurity,Day 2,Loved the mentors and project guidance.
+46,Rahul Reddy,rahul715@outlook.com,IIT Madras,Karnataka,IoT,Day 1,"I didn't learn much, felt like a waste of time."
+47,Rahul Iyer,rahul371@yahoo.com,VIT Vellore,Telangana,Web Development,Day 3,Loved the mentors and project guidance.
+48,Priya Nair,priya341@gmail.com,BITS Pilani,Kerala,Cybersecurity,Day 1,"The venue was not suitable for the event, very uncomfortable."
+49,Rohan Joshi,rohan816@gmail.com,BITS Pilani,Telangana,IoT,Day 2,"Event was decent, but nothing extraordinary."
+50,Kiran Singh,kiran724@yahoo.com,BITS Pilani,Tamil Nadu,Web Development,Day 3,I expected more from the workshops.
+51,Rohan Patil,rohan824@gmail.com,BITS Pilani,Karnataka,Web Development,Day 2,Loved the mentors and project guidance.
+52,Rahul Iyer,rahul310@yahoo.com,IIT Madras,Tamil Nadu,AI & ML,Day 1,Great experience! Learned a lot.
+53,Rahul Singh,rahul973@gmail.com,IIT Madras,Tamil Nadu,Web Development,Day 1,"It was fine, but not very engaging."
+54,Ishaan Iyer,ishaan277@gmail.com,BITS Pilani,Karnataka,AI & ML,Day 2,Loved the mentors and project guidance.
+55,Neha Singh,neha974@outlook.com,IIT Madras,Karnataka,Cybersecurity,Day 2,Would love more hands-on sessions.
+56,Rohan Iyer,rohan703@outlook.com,Anna University,Kerala,Blockchain,Day 3,"Event was decent, but nothing extraordinary."
+57,Rohan Reddy,rohan269@yahoo.com,IIT Madras,Telangana,Blockchain,Day 2,Networking was amazing!
+58,Priya Sharma,priya981@gmail.com,NIT Karnataka,Karnataka,Cybersecurity,Day 2,Would love more hands-on sessions.
+59,Sanya Patil,sanya977@yahoo.com,NIT Karnataka,Maharashtra,Cybersecurity,Day 3,"Event was decent, but nothing extraordinary."
+60,Sanya Iyer,sanya775@yahoo.com,Anna University,Kerala,Cybersecurity,Day 1,Loved the mentors and project guidance.
+61,Priya Iyer,priya402@yahoo.com,Anna University,Karnataka,Cybersecurity,Day 3,I expected more from the workshops.
+62,Kiran Sharma,kiran587@gmail.com,NIT Karnataka,Telangana,Cybersecurity,Day 3,The sessions were informative but could be more detailed.
+63,Neha Patil,neha224@outlook.com,BITS Pilani,Karnataka,AI & ML,Day 2,"The event was okay, could have been better."
+64,Rohan Verma,rohan555@outlook.com,NIT Karnataka,Karnataka,AI & ML,Day 1,Would love more hands-on sessions.
+65,Priya Gupta,priya798@outlook.com,BITS Pilani,Maharashtra,AI & ML,Day 1,Would love more hands-on sessions.
+66,Ishaan Joshi,ishaan675@outlook.com,Anna University,Tamil Nadu,Web Development,Day 2,The sessions were informative but could be more detailed.
+67,Vihaan Singh,vihaan215@outlook.com,VIT Vellore,Kerala,Blockchain,Day 1,"Fantastic event, would participate again."
+68,Rahul Das,rahul535@yahoo.com,IIT Madras,Telangana,Blockchain,Day 3,"I didn't learn much, felt like a waste of time."
+69,Neha Verma,neha591@gmail.com,VIT Vellore,Karnataka,IoT,Day 2,"I didn't learn much, felt like a waste of time."
+70,Kiran Nair,kiran310@yahoo.com,NIT Karnataka,Maharashtra,AI & ML,Day 1,Loved the mentors and project guidance.
+71,Rahul Nair,rahul353@outlook.com,NIT Karnataka,Telangana,Blockchain,Day 3,Great experience! Learned a lot.
+72,Rohan Gupta,rohan263@gmail.com,IIT Madras,Telangana,AI & ML,Day 2,"It was fine, but not very engaging."
+73,Priya Patil,priya134@gmail.com,NIT Karnataka,Telangana,IoT,Day 2,"I didn't learn much, felt like a waste of time."
+74,Vihaan Verma,vihaan494@outlook.com,Anna University,Karnataka,IoT,Day 2,The event was too fast-paced and overwhelming.
+75,Rohan Verma,rohan341@outlook.com,VIT Vellore,Karnataka,Cybersecurity,Day 1,Loved the mentors and project guidance.
+76,Vihaan Iyer,vihaan832@outlook.com,IIT Madras,Karnataka,Web Development,Day 2,Loved the mentors and project guidance.
+77,Rohan Patil,rohan956@yahoo.com,Anna University,Karnataka,Cybersecurity,Day 3,"Fantastic event, would participate again."
+78,Rohan Patil,rohan521@yahoo.com,IIT Madras,Kerala,Cybersecurity,Day 3,The sessions were informative but could be more detailed.
+79,Aarav Singh,aarav727@outlook.com,VIT Vellore,Tamil Nadu,Cybersecurity,Day 2,The sessions were not relevant to my interests.
+80,Rahul Reddy,rahul555@outlook.com,BITS Pilani,Tamil Nadu,AI & ML,Day 3,The sessions were informative but could be more detailed.
+81,Rohan Gupta,rohan368@gmail.com,BITS Pilani,Tamil Nadu,IoT,Day 1,"It was fine, but not very engaging."
+82,Vihaan Iyer,vihaan941@yahoo.com,NIT Karnataka,Maharashtra,Cybersecurity,Day 2,"It was fine, but not very engaging."
+83,Ananya Joshi,ananya815@gmail.com,IIT Madras,Kerala,Blockchain,Day 2,Loved the mentors and project guidance.
+84,Rahul Patil,rahul623@gmail.com,Anna University,Karnataka,AI & ML,Day 2,Loved the mentors and project guidance.
+85,Rahul Reddy,rahul904@gmail.com,VIT Vellore,Maharashtra,Cybersecurity,Day 3,Loved the mentors and project guidance.
+86,Vihaan Iyer,vihaan839@yahoo.com,IIT Madras,Maharashtra,Web Development,Day 1,"It was fine, but not very engaging."
+87,Neha Joshi,neha717@yahoo.com,IIT Madras,Karnataka,AI & ML,Day 2,"The event was okay, could have been better."
+88,Ishaan Nair,ishaan963@gmail.com,NIT Karnataka,Karnataka,IoT,Day 3,The sessions were not relevant to my interests.
+89,Priya Verma,priya909@outlook.com,Anna University,Maharashtra,Cybersecurity,Day 3,I expected more from the workshops.
+90,Vihaan Patil,vihaan857@outlook.com,NIT Karnataka,Tamil Nadu,AI & ML,Day 3,"I didn't learn much, felt like a waste of time."
+91,Aarav Iyer,aarav293@yahoo.com,Anna University,Tamil Nadu,Cybersecurity,Day 1,The sessions were informative but could be more detailed.
+92,Kiran Joshi,kiran258@yahoo.com,VIT Vellore,Kerala,AI & ML,Day 1,"The event was okay, could have been better."
+93,Vihaan Patil,vihaan453@outlook.com,VIT Vellore,Telangana,IoT,Day 3,Networking was amazing!
+94,Kiran Reddy,kiran350@gmail.com,VIT Vellore,Maharashtra,Blockchain,Day 1,"Event was decent, but nothing extraordinary."
+95,Sanya Singh,sanya813@yahoo.com,BITS Pilani,Tamil Nadu,IoT,Day 3,I expected more from the workshops.
+96,Vihaan Reddy,vihaan884@outlook.com,IIT Madras,Tamil Nadu,Cybersecurity,Day 2,The event was too fast-paced and overwhelming.
+97,Rohan Reddy,rohan408@gmail.com,Anna University,Telangana,IoT,Day 1,The event was too fast-paced and overwhelming.
+98,Rohan Gupta,rohan277@gmail.com,VIT Vellore,Tamil Nadu,Web Development,Day 3,The sessions were informative but could be more detailed.
+99,Rohan Sharma,rohan363@outlook.com,VIT Vellore,Maharashtra,Cybersecurity,Day 2,I expected more from the workshops.
+100,Kiran Nair,kiran476@yahoo.com,BITS Pilani,Maharashtra,IoT,Day 2,Networking was amazing!
+101,Rahul Iyer,rahul735@gmail.com,BITS Pilani,Tamil Nadu,Cybersecurity,Day 3,I expected more from the workshops.
+102,Vihaan Iyer,vihaan428@yahoo.com,IIT Madras,Karnataka,Cybersecurity,Day 1,Great experience! Learned a lot.
+103,Rohan Joshi,rohan319@outlook.com,NIT Karnataka,Telangana,Web Development,Day 3,"The event was okay, could have been better."
+104,Rohan Nair,rohan499@yahoo.com,VIT Vellore,Karnataka,Cybersecurity,Day 2,"Event was decent, but nothing extraordinary."
+105,Sanya Reddy,sanya455@outlook.com,NIT Karnataka,Telangana,Cybersecurity,Day 2,"The event was okay, could have been better."
+106,Rohan Iyer,rohan418@yahoo.com,VIT Vellore,Tamil Nadu,AI & ML,Day 1,"The event was okay, could have been better."
+107,Rohan Singh,rohan326@yahoo.com,Anna University,Maharashtra,Blockchain,Day 3,"I didn't learn much, felt like a waste of time."
+108,Ishaan Singh,ishaan516@yahoo.com,VIT Vellore,Tamil Nadu,Web Development,Day 3,"Event was decent, but nothing extraordinary."
+109,Ananya Reddy,ananya289@gmail.com,Anna University,Maharashtra,Web Development,Day 2,"The venue was not suitable for the event, very uncomfortable."
+110,Kiran Patil,kiran192@gmail.com,IIT Madras,Tamil Nadu,AI & ML,Day 2,"Fantastic event, would participate again."
+111,Vihaan Sharma,vihaan981@gmail.com,Anna University,Kerala,AI & ML,Day 2,"Event was decent, but nothing extraordinary."
+112,Neha Joshi,neha731@yahoo.com,IIT Madras,Tamil Nadu,AI & ML,Day 1,I expected more from the workshops.
+113,Sanya Iyer,sanya388@outlook.com,VIT Vellore,Karnataka,IoT,Day 1,"It was fine, but not very engaging."
+114,Ishaan Verma,ishaan695@outlook.com,BITS Pilani,Telangana,Web Development,Day 1,"The event was okay, could have been better."
+115,Ananya Iyer,ananya966@yahoo.com,BITS Pilani,Tamil Nadu,Cybersecurity,Day 3,"I didn't learn much, felt like a waste of time."
+116,Kiran Verma,kiran792@yahoo.com,IIT Madras,Tamil Nadu,AI & ML,Day 3,The sessions were not relevant to my interests.
+117,Rohan Sharma,rohan705@gmail.com,IIT Madras,Maharashtra,Cybersecurity,Day 3,Loved the mentors and project guidance.
+118,Rahul Singh,rahul461@yahoo.com,NIT Karnataka,Tamil Nadu,Web Development,Day 3,"Didn't enjoy the event at all, poorly organized."
+119,Rohan Singh,rohan569@gmail.com,BITS Pilani,Karnataka,Cybersecurity,Day 3,The event was too fast-paced and overwhelming.
+120,Rahul Sharma,rahul403@gmail.com,VIT Vellore,Telangana,Blockchain,Day 2,"Fantastic event, would participate again."
+121,Ananya Nair,ananya349@gmail.com,VIT Vellore,Telangana,Web Development,Day 1,"It was fine, but not very engaging."
+122,Ananya Das,ananya995@yahoo.com,IIT Madras,Tamil Nadu,AI & ML,Day 3,Would love more hands-on sessions.
+123,Aarav Patil,aarav890@outlook.com,BITS Pilani,Karnataka,Cybersecurity,Day 2,Great experience! Learned a lot.
+124,Ishaan Joshi,ishaan741@gmail.com,Anna University,Tamil Nadu,AI & ML,Day 1,I expected more from the workshops.
+125,Ananya Reddy,ananya764@yahoo.com,NIT Karnataka,Tamil Nadu,Cybersecurity,Day 2,The sessions were not relevant to my interests.
+126,Rahul Patil,rahul381@gmail.com,NIT Karnataka,Maharashtra,IoT,Day 1,I expected more from the workshops.
+127,Rahul Joshi,rahul734@outlook.com,BITS Pilani,Tamil Nadu,AI & ML,Day 3,The event was too fast-paced and overwhelming.
+128,Priya Reddy,priya192@yahoo.com,NIT Karnataka,Tamil Nadu,Blockchain,Day 3,"Fantastic event, would participate again."
+129,Ananya Das,ananya374@yahoo.com,BITS Pilani,Kerala,Web Development,Day 3,Loved the mentors and project guidance.
+130,Ishaan Singh,ishaan905@gmail.com,Anna University,Maharashtra,Web Development,Day 1,Networking was amazing!
+131,Ananya Reddy,ananya948@outlook.com,NIT Karnataka,Telangana,AI & ML,Day 1,"The event was okay, could have been better."
+132,Neha Patil,neha236@yahoo.com,IIT Madras,Maharashtra,AI & ML,Day 3,Loved the mentors and project guidance.
+133,Ananya Joshi,ananya624@yahoo.com,NIT Karnataka,Tamil Nadu,AI & ML,Day 3,Loved the mentors and project guidance.
+134,Sanya Verma,sanya864@yahoo.com,Anna University,Maharashtra,AI & ML,Day 3,The sessions were not relevant to my interests.
+135,Rahul Das,rahul663@yahoo.com,Anna University,Tamil Nadu,Web Development,Day 2,Great experience! Learned a lot.
+136,Kiran Gupta,kiran135@yahoo.com,Anna University,Telangana,AI & ML,Day 2,The event was too fast-paced and overwhelming.
+137,Priya Joshi,priya640@yahoo.com,IIT Madras,Tamil Nadu,IoT,Day 3,The sessions were not relevant to my interests.
+138,Aarav Gupta,aarav834@yahoo.com,NIT Karnataka,Maharashtra,AI & ML,Day 1,"The event was okay, could have been better."
+139,Vihaan Gupta,vihaan636@outlook.com,VIT Vellore,Karnataka,IoT,Day 3,"I didn't learn much, felt like a waste of time."
+140,Ishaan Iyer,ishaan214@yahoo.com,VIT Vellore,Telangana,Web Development,Day 3,Great experience! Learned a lot.
+141,Rahul Singh,rahul714@yahoo.com,VIT Vellore,Karnataka,Blockchain,Day 1,Loved the mentors and project guidance.
+142,Rohan Gupta,rohan270@yahoo.com,BITS Pilani,Telangana,AI & ML,Day 1,The sessions were not relevant to my interests.
+143,Rahul Singh,rahul733@yahoo.com,VIT Vellore,Kerala,Cybersecurity,Day 2,"Event was decent, but nothing extraordinary."
+144,Ananya Reddy,ananya539@yahoo.com,Anna University,Karnataka,Web Development,Day 3,"It was fine, but not very engaging."
+145,Neha Singh,neha774@gmail.com,VIT Vellore,Tamil Nadu,AI & ML,Day 3,Would love more hands-on sessions.
+146,Rohan Patil,rohan233@gmail.com,BITS Pilani,Karnataka,Blockchain,Day 2,I expected more from the workshops.
+147,Rahul Patil,rahul675@yahoo.com,IIT Madras,Telangana,IoT,Day 2,Loved the mentors and project guidance.
+148,Rahul Joshi,rahul248@outlook.com,VIT Vellore,Maharashtra,IoT,Day 3,"It was fine, but not very engaging."
+149,Rohan Joshi,rohan563@gmail.com,Anna University,Tamil Nadu,Blockchain,Day 1,"Didn't enjoy the event at all, poorly organized."
+150,Ishaan Patil,ishaan728@gmail.com,NIT Karnataka,Karnataka,Web Development,Day 2,"Event was decent, but nothing extraordinary."
+151,Rahul Reddy,rahul543@yahoo.com,Anna University,Tamil Nadu,Cybersecurity,Day 1,"Didn't enjoy the event at all, poorly organized."
+152,Sanya Das,sanya131@gmail.com,VIT Vellore,Maharashtra,AI & ML,Day 2,"It was fine, but not very engaging."
+153,Vihaan Patil,vihaan208@gmail.com,BITS Pilani,Tamil Nadu,Cybersecurity,Day 3,"Didn't enjoy the event at all, poorly organized."
+154,Aarav Patil,aarav853@outlook.com,IIT Madras,Telangana,Web Development,Day 3,Networking was amazing!
+155,Priya Singh,priya302@gmail.com,IIT Madras,Karnataka,IoT,Day 1,"The venue was not suitable for the event, very uncomfortable."
+156,Vihaan Patil,vihaan268@outlook.com,NIT Karnataka,Kerala,Cybersecurity,Day 1,I expected more from the workshops.
+157,Ananya Gupta,ananya739@yahoo.com,Anna University,Tamil Nadu,AI & ML,Day 2,"It was fine, but not very engaging."
+158,Rohan Verma,rohan472@gmail.com,Anna University,Tamil Nadu,Blockchain,Day 1,The sessions were not relevant to my interests.
+159,Vihaan Verma,vihaan546@yahoo.com,BITS Pilani,Maharashtra,Cybersecurity,Day 2,"Event was decent, but nothing extraordinary."
+160,Rohan Das,rohan242@yahoo.com,IIT Madras,Tamil Nadu,Blockchain,Day 1,"Event was decent, but nothing extraordinary."
+161,Rahul Nair,rahul153@gmail.com,VIT Vellore,Tamil Nadu,Web Development,Day 3,The sessions were not relevant to my interests.
+162,Priya Das,priya688@yahoo.com,IIT Madras,Telangana,Web Development,Day 2,The event was too fast-paced and overwhelming.
+163,Rahul Singh,rahul562@outlook.com,NIT Karnataka,Karnataka,Web Development,Day 3,"The event was okay, could have been better."
+164,Vihaan Joshi,vihaan412@yahoo.com,BITS Pilani,Karnataka,IoT,Day 2,"It was fine, but not very engaging."
+165,Kiran Joshi,kiran784@outlook.com,NIT Karnataka,Kerala,Blockchain,Day 3,I expected more from the workshops.
+166,Kiran Das,kiran890@outlook.com,VIT Vellore,Tamil Nadu,IoT,Day 3,The event was too fast-paced and overwhelming.
+167,Kiran Verma,kiran392@yahoo.com,BITS Pilani,Maharashtra,Cybersecurity,Day 1,I expected more from the workshops.
+168,Sanya Gupta,sanya862@yahoo.com,NIT Karnataka,Telangana,Blockchain,Day 2,Networking was amazing!
+169,Vihaan Nair,vihaan782@yahoo.com,Anna University,Maharashtra,Web Development,Day 2,"The event was okay, could have been better."
+170,Rahul Sharma,rahul698@yahoo.com,BITS Pilani,Kerala,Cybersecurity,Day 2,Would love more hands-on sessions.
+171,Rohan Das,rohan342@gmail.com,VIT Vellore,Maharashtra,IoT,Day 3,"I didn't learn much, felt like a waste of time."
+172,Priya Singh,priya212@gmail.com,NIT Karnataka,Telangana,Web Development,Day 2,The sessions were informative but could be more detailed.
+173,Sanya Nair,sanya585@outlook.com,NIT Karnataka,Kerala,Cybersecurity,Day 3,The event was too fast-paced and overwhelming.
+174,Rahul Das,rahul380@gmail.com,VIT Vellore,Tamil Nadu,Cybersecurity,Day 1,Networking was amazing!
+175,Vihaan Iyer,vihaan102@outlook.com,Anna University,Maharashtra,Cybersecurity,Day 1,The sessions were not relevant to my interests.
+176,Priya Joshi,priya703@outlook.com,NIT Karnataka,Maharashtra,AI & ML,Day 1,The event was too fast-paced and overwhelming.
+177,Neha Sharma,neha707@yahoo.com,BITS Pilani,Telangana,Web Development,Day 3,Great experience! Learned a lot.
+178,Sanya Sharma,sanya334@outlook.com,VIT Vellore,Tamil Nadu,IoT,Day 3,"It was fine, but not very engaging."
+179,Rahul Patil,rahul309@outlook.com,Anna University,Telangana,AI & ML,Day 3,"The event was okay, could have been better."
+180,Vihaan Iyer,vihaan811@gmail.com,VIT Vellore,Karnataka,IoT,Day 3,"Fantastic event, would participate again."
+181,Rohan Nair,rohan820@outlook.com,VIT Vellore,Karnataka,Blockchain,Day 3,Would love more hands-on sessions.
+182,Rahul Iyer,rahul764@outlook.com,Anna University,Tamil Nadu,IoT,Day 3,"The venue was not suitable for the event, very uncomfortable."
+183,Aarav Verma,aarav371@yahoo.com,Anna University,Telangana,IoT,Day 2,Loved the mentors and project guidance.
+184,Priya Reddy,priya833@outlook.com,IIT Madras,Kerala,Cybersecurity,Day 1,"The venue was not suitable for the event, very uncomfortable."
+185,Sanya Verma,sanya459@outlook.com,IIT Madras,Karnataka,Web Development,Day 1,"Fantastic event, would participate again."
+186,Kiran Iyer,kiran617@yahoo.com,IIT Madras,Kerala,Blockchain,Day 1,Great experience! Learned a lot.
+187,Aarav Das,aarav583@yahoo.com,IIT Madras,Telangana,Blockchain,Day 1,Loved the mentors and project guidance.
+188,Vihaan Singh,vihaan249@gmail.com,Anna University,Tamil Nadu,Web Development,Day 2,"It was fine, but not very engaging."
+189,Vihaan Reddy,vihaan789@yahoo.com,NIT Karnataka,Kerala,AI & ML,Day 3,The event was too fast-paced and overwhelming.
+190,Ananya Das,ananya581@yahoo.com,VIT Vellore,Telangana,IoT,Day 3,The event was too fast-paced and overwhelming.
+191,Neha Reddy,neha166@gmail.com,VIT Vellore,Tamil Nadu,Web Development,Day 1,Networking was amazing!
+192,Priya Nair,priya193@outlook.com,Anna University,Telangana,IoT,Day 2,The event was too fast-paced and overwhelming.
+193,Ananya Iyer,ananya567@outlook.com,Anna University,Karnataka,Blockchain,Day 2,"The venue was not suitable for the event, very uncomfortable."
+194,Aarav Joshi,aarav892@gmail.com,IIT Madras,Maharashtra,Cybersecurity,Day 1,"The event was okay, could have been better."
+195,Sanya Nair,sanya844@gmail.com,IIT Madras,Tamil Nadu,Blockchain,Day 1,I expected more from the workshops.
+196,Sanya Patil,sanya919@yahoo.com,VIT Vellore,Maharashtra,Blockchain,Day 3,"Fantastic event, would participate again."
+197,Kiran Singh,kiran462@gmail.com,IIT Madras,Telangana,Blockchain,Day 1,The sessions were not relevant to my interests.
+198,Ananya Gupta,ananya488@yahoo.com,Anna University,Tamil Nadu,IoT,Day 1,"Fantastic event, would participate again."
+199,Vihaan Das,vihaan108@outlook.com,NIT Karnataka,Karnataka,Web Development,Day 3,The event was too fast-paced and overwhelming.
+200,Neha Gupta,neha921@outlook.com,VIT Vellore,Kerala,AI & ML,Day 3,"Didn't enjoy the event at all, poorly organized."
+201,Aarav Das,aarav118@gmail.com,IIT Madras,Kerala,IoT,Day 3,"Fantastic event, would participate again."
+202,Aarav Singh,aarav787@outlook.com,Anna University,Kerala,AI & ML,Day 1,Loved the mentors and project guidance.
+203,Aarav Gupta,aarav760@yahoo.com,NIT Karnataka,Telangana,Cybersecurity,Day 3,"Event was decent, but nothing extraordinary."
+204,Aarav Singh,aarav574@gmail.com,IIT Madras,Kerala,Blockchain,Day 3,"Event was decent, but nothing extraordinary."
+205,Ishaan Nair,ishaan950@gmail.com,Anna University,Maharashtra,Blockchain,Day 1,Great experience! Learned a lot.
+206,Kiran Singh,kiran146@yahoo.com,BITS Pilani,Telangana,Cybersecurity,Day 1,"Event was decent, but nothing extraordinary."
+207,Neha Nair,neha161@yahoo.com,IIT Madras,Tamil Nadu,IoT,Day 1,"I didn't learn much, felt like a waste of time."
+208,Aarav Reddy,aarav873@gmail.com,Anna University,Kerala,Cybersecurity,Day 2,"It was fine, but not very engaging."
+209,Ishaan Patil,ishaan458@yahoo.com,IIT Madras,Telangana,Cybersecurity,Day 1,"The venue was not suitable for the event, very uncomfortable."
+210,Vihaan Reddy,vihaan467@outlook.com,Anna University,Kerala,Blockchain,Day 3,Would love more hands-on sessions.
+211,Rohan Sharma,rohan894@yahoo.com,NIT Karnataka,Tamil Nadu,IoT,Day 2,"The event was okay, could have been better."
+212,Ishaan Verma,ishaan467@gmail.com,VIT Vellore,Telangana,IoT,Day 3,"Event was decent, but nothing extraordinary."
+213,Vihaan Reddy,vihaan513@gmail.com,VIT Vellore,Maharashtra,IoT,Day 1,"I didn't learn much, felt like a waste of time."
+214,Neha Gupta,neha165@gmail.com,IIT Madras,Telangana,Blockchain,Day 1,I expected more from the workshops.
+215,Vihaan Joshi,vihaan461@outlook.com,VIT Vellore,Tamil Nadu,IoT,Day 1,The event was too fast-paced and overwhelming.
+216,Vihaan Verma,vihaan514@gmail.com,IIT Madras,Tamil Nadu,IoT,Day 2,Would love more hands-on sessions.
+217,Neha Nair,neha827@yahoo.com,IIT Madras,Maharashtra,Cybersecurity,Day 3,The sessions were informative but could be more detailed.
+218,Rohan Iyer,rohan142@yahoo.com,BITS Pilani,Maharashtra,Web Development,Day 2,"I didn't learn much, felt like a waste of time."
+219,Ananya Gupta,ananya406@yahoo.com,VIT Vellore,Maharashtra,IoT,Day 1,The sessions were informative but could be more detailed.
+220,Vihaan Patil,vihaan837@gmail.com,VIT Vellore,Maharashtra,Cybersecurity,Day 3,"It was fine, but not very engaging."
+221,Rahul Singh,rahul994@gmail.com,BITS Pilani,Karnataka,Web Development,Day 2,"It was fine, but not very engaging."
+222,Vihaan Iyer,vihaan189@outlook.com,IIT Madras,Tamil Nadu,AI & ML,Day 2,"Fantastic event, would participate again."
+223,Ananya Verma,ananya328@yahoo.com,VIT Vellore,Kerala,Web Development,Day 1,The sessions were not relevant to my interests.
+224,Kiran Nair,kiran804@outlook.com,IIT Madras,Karnataka,IoT,Day 2,"Didn't enjoy the event at all, poorly organized."
+225,Ananya Gupta,ananya814@yahoo.com,VIT Vellore,Tamil Nadu,Web Development,Day 2,"Didn't enjoy the event at all, poorly organized."
+226,Ishaan Gupta,ishaan534@gmail.com,IIT Madras,Maharashtra,Blockchain,Day 2,"Fantastic event, would participate again."
+227,Aarav Patil,aarav969@outlook.com,VIT Vellore,Karnataka,Blockchain,Day 3,"It was fine, but not very engaging."
+228,Vihaan Reddy,vihaan813@yahoo.com,NIT Karnataka,Kerala,Cybersecurity,Day 2,The event was too fast-paced and overwhelming.
+229,Ishaan Gupta,ishaan544@gmail.com,BITS Pilani,Karnataka,Cybersecurity,Day 1,Loved the mentors and project guidance.
+230,Neha Das,neha908@gmail.com,BITS Pilani,Telangana,IoT,Day 3,The event was too fast-paced and overwhelming.
+231,Ananya Sharma,ananya834@outlook.com,VIT Vellore,Maharashtra,AI & ML,Day 1,"It was fine, but not very engaging."
+232,Aarav Gupta,aarav556@yahoo.com,VIT Vellore,Tamil Nadu,Cybersecurity,Day 2,The event was too fast-paced and overwhelming.
+233,Rahul Nair,rahul725@outlook.com,IIT Madras,Karnataka,Cybersecurity,Day 3,The sessions were not relevant to my interests.
+234,Rahul Gupta,rahul691@gmail.com,Anna University,Telangana,Web Development,Day 3,The sessions were informative but could be more detailed.
+235,Ishaan Gupta,ishaan727@gmail.com,VIT Vellore,Maharashtra,IoT,Day 1,Would love more hands-on sessions.
+236,Priya Patil,priya995@yahoo.com,IIT Madras,Kerala,AI & ML,Day 3,Great experience! Learned a lot.
+237,Ananya Joshi,ananya319@yahoo.com,VIT Vellore,Telangana,Web Development,Day 2,"The event was okay, could have been better."
+238,Sanya Iyer,sanya275@outlook.com,NIT Karnataka,Tamil Nadu,IoT,Day 2,"It was fine, but not very engaging."
+239,Rohan Singh,rohan765@outlook.com,BITS Pilani,Telangana,Cybersecurity,Day 3,Loved the mentors and project guidance.
+240,Sanya Verma,sanya155@gmail.com,NIT Karnataka,Kerala,Web Development,Day 2,The event was too fast-paced and overwhelming.
+241,Priya Iyer,priya935@gmail.com,Anna University,Maharashtra,Blockchain,Day 2,Loved the mentors and project guidance.
+242,Vihaan Das,vihaan309@outlook.com,NIT Karnataka,Karnataka,AI & ML,Day 3,"The venue was not suitable for the event, very uncomfortable."
+243,Sanya Iyer,sanya528@yahoo.com,Anna University,Karnataka,Cybersecurity,Day 2,Networking was amazing!
+244,Ananya Singh,ananya409@gmail.com,VIT Vellore,Maharashtra,Web Development,Day 1,"Didn't enjoy the event at all, poorly organized."
+245,Rohan Das,rohan435@gmail.com,IIT Madras,Telangana,Cybersecurity,Day 2,The sessions were not relevant to my interests.
+246,Aarav Nair,aarav898@gmail.com,VIT Vellore,Kerala,AI & ML,Day 2,"The venue was not suitable for the event, very uncomfortable."
+247,Ishaan Sharma,ishaan386@yahoo.com,Anna University,Karnataka,Blockchain,Day 2,"I didn't learn much, felt like a waste of time."
+248,Rahul Verma,rahul351@gmail.com,BITS Pilani,Kerala,Web Development,Day 2,Loved the mentors and project guidance.
+249,Priya Gupta,priya614@gmail.com,BITS Pilani,Tamil Nadu,IoT,Day 2,"Fantastic event, would participate again."
+250,Ishaan Sharma,ishaan242@yahoo.com,NIT Karnataka,Tamil Nadu,AI & ML,Day 3,"Didn't enjoy the event at all, poorly organized."
+251,Neha Verma,neha902@yahoo.com,NIT Karnataka,Kerala,IoT,Day 2,I expected more from the workshops.
+252,Ishaan Gupta,ishaan449@gmail.com,NIT Karnataka,Kerala,AI & ML,Day 1,Loved the mentors and project guidance.
+253,Aarav Nair,aarav988@gmail.com,VIT Vellore,Telangana,AI & ML,Day 2,Loved the mentors and project guidance.
+254,Rohan Sharma,rohan925@outlook.com,NIT Karnataka,Maharashtra,IoT,Day 1,The event was too fast-paced and overwhelming.
+255,Sanya Verma,sanya736@gmail.com,Anna University,Kerala,Web Development,Day 2,Loved the mentors and project guidance.
+256,Ishaan Gupta,ishaan136@gmail.com,BITS Pilani,Maharashtra,AI & ML,Day 2,"It was fine, but not very engaging."
+257,Ishaan Das,ishaan925@yahoo.com,Anna University,Tamil Nadu,IoT,Day 1,Loved the mentors and project guidance.
+258,Rohan Sharma,rohan780@yahoo.com,IIT Madras,Telangana,Web Development,Day 3,"The venue was not suitable for the event, very uncomfortable."
+259,Neha Patil,neha792@gmail.com,NIT Karnataka,Maharashtra,Web Development,Day 3,Loved the mentors and project guidance.
+260,Vihaan Singh,vihaan113@gmail.com,Anna University,Kerala,Blockchain,Day 1,Networking was amazing!
+261,Rohan Verma,rohan489@gmail.com,NIT Karnataka,Kerala,Cybersecurity,Day 3,"The venue was not suitable for the event, very uncomfortable."
+262,Rahul Iyer,rahul551@gmail.com,Anna University,Tamil Nadu,AI & ML,Day 1,"Event was decent, but nothing extraordinary."
+263,Sanya Joshi,sanya608@yahoo.com,IIT Madras,Maharashtra,Cybersecurity,Day 1,"It was fine, but not very engaging."
+264,Vihaan Das,vihaan193@outlook.com,VIT Vellore,Tamil Nadu,IoT,Day 3,Would love more hands-on sessions.
+265,Rahul Joshi,rahul638@yahoo.com,IIT Madras,Maharashtra,IoT,Day 2,Would love more hands-on sessions.
+266,Rohan Verma,rohan581@yahoo.com,IIT Madras,Tamil Nadu,AI & ML,Day 3,Loved the mentors and project guidance.
+267,Neha Gupta,neha772@yahoo.com,IIT Madras,Karnataka,AI & ML,Day 3,"The event was okay, could have been better."
+268,Aarav Das,aarav831@gmail.com,NIT Karnataka,Telangana,AI & ML,Day 1,The sessions were informative but could be more detailed.
+269,Aarav Iyer,aarav383@gmail.com,VIT Vellore,Kerala,Web Development,Day 2,"Didn't enjoy the event at all, poorly organized."
+270,Ananya Verma,ananya564@gmail.com,Anna University,Kerala,IoT,Day 1,Great experience! Learned a lot.
+271,Vihaan Das,vihaan234@outlook.com,VIT Vellore,Telangana,Web Development,Day 3,Would love more hands-on sessions.
+272,Rahul Patil,rahul950@outlook.com,VIT Vellore,Maharashtra,Web Development,Day 1,The sessions were not relevant to my interests.
+273,Rahul Singh,rahul120@yahoo.com,IIT Madras,Tamil Nadu,Web Development,Day 3,The sessions were informative but could be more detailed.
+274,Vihaan Iyer,vihaan353@outlook.com,NIT Karnataka,Karnataka,Web Development,Day 1,The sessions were not relevant to my interests.
+275,Priya Reddy,priya513@gmail.com,VIT Vellore,Tamil Nadu,IoT,Day 3,I expected more from the workshops.
+276,Neha Reddy,neha208@gmail.com,IIT Madras,Tamil Nadu,IoT,Day 2,Would love more hands-on sessions.
+277,Aarav Gupta,aarav825@outlook.com,IIT Madras,Tamil Nadu,Cybersecurity,Day 1,"Fantastic event, would participate again."
+278,Neha Patil,neha622@yahoo.com,Anna University,Kerala,AI & ML,Day 3,Great experience! Learned a lot.
+279,Ananya Reddy,ananya450@gmail.com,NIT Karnataka,Maharashtra,Blockchain,Day 3,"Event was decent, but nothing extraordinary."
+280,Kiran Nair,kiran886@gmail.com,IIT Madras,Karnataka,Blockchain,Day 2,I expected more from the workshops.
+281,Sanya Reddy,sanya943@gmail.com,NIT Karnataka,Tamil Nadu,Web Development,Day 3,Loved the mentors and project guidance.
+282,Vihaan Singh,vihaan897@yahoo.com,VIT Vellore,Tamil Nadu,AI & ML,Day 2,"The venue was not suitable for the event, very uncomfortable."
+283,Kiran Singh,kiran141@yahoo.com,IIT Madras,Tamil Nadu,Blockchain,Day 2,The sessions were informative but could be more detailed.
+284,Ananya Nair,ananya995@outlook.com,BITS Pilani,Telangana,Web Development,Day 1,Great experience! Learned a lot.
+285,Rohan Verma,rohan447@gmail.com,NIT Karnataka,Maharashtra,AI & ML,Day 1,"Event was decent, but nothing extraordinary."
+286,Ananya Reddy,ananya394@gmail.com,BITS Pilani,Karnataka,Cybersecurity,Day 1,"The event was okay, could have been better."
+287,Neha Patil,neha285@gmail.com,VIT Vellore,Karnataka,AI & ML,Day 3,"Didn't enjoy the event at all, poorly organized."
+288,Ananya Verma,ananya153@outlook.com,IIT Madras,Maharashtra,Cybersecurity,Day 2,I expected more from the workshops.
+289,Neha Reddy,neha551@yahoo.com,VIT Vellore,Telangana,AI & ML,Day 1,Would love more hands-on sessions.
+290,Aarav Patil,aarav251@gmail.com,VIT Vellore,Kerala,Cybersecurity,Day 1,"I didn't learn much, felt like a waste of time."
+291,Ananya Das,ananya378@yahoo.com,VIT Vellore,Kerala,Blockchain,Day 3,The sessions were not relevant to my interests.
+292,Neha Verma,neha793@gmail.com,VIT Vellore,Karnataka,Web Development,Day 1,"The event was okay, could have been better."
+293,Ananya Gupta,ananya389@outlook.com,NIT Karnataka,Maharashtra,Cybersecurity,Day 2,"Event was decent, but nothing extraordinary."
+294,Priya Gupta,priya405@outlook.com,BITS Pilani,Karnataka,Blockchain,Day 3,The sessions were informative but could be more detailed.
+295,Kiran Gupta,kiran733@yahoo.com,IIT Madras,Kerala,Blockchain,Day 3,"It was fine, but not very engaging."
+296,Ishaan Gupta,ishaan768@gmail.com,VIT Vellore,Maharashtra,Blockchain,Day 3,I expected more from the workshops.
+297,Sanya Patil,sanya605@gmail.com,NIT Karnataka,Telangana,Blockchain,Day 3,The event was too fast-paced and overwhelming.
+298,Ishaan Iyer,ishaan755@outlook.com,BITS Pilani,Tamil Nadu,AI & ML,Day 2,"Fantastic event, would participate again."
+299,Priya Gupta,priya801@outlook.com,VIT Vellore,Tamil Nadu,AI & ML,Day 3,"Fantastic event, would participate again."
+300,Sanya Sharma,sanya257@gmail.com,BITS Pilani,Maharashtra,Blockchain,Day 2,Would love more hands-on sessions.
+301,Rahul Nair,rahul815@gmail.com,Anna University,Kerala,Blockchain,Day 1,The sessions were informative but could be more detailed.
+302,Aarav Sharma,aarav652@gmail.com,VIT Vellore,Maharashtra,AI & ML,Day 3,I expected more from the workshops.
+303,Sanya Gupta,sanya616@yahoo.com,BITS Pilani,Maharashtra,AI & ML,Day 3,Networking was amazing!
+304,Kiran Nair,kiran893@yahoo.com,IIT Madras,Karnataka,Cybersecurity,Day 3,"It was fine, but not very engaging."
+305,Sanya Nair,sanya993@yahoo.com,NIT Karnataka,Tamil Nadu,Cybersecurity,Day 1,The sessions were informative but could be more detailed.
+306,Aarav Patil,aarav777@yahoo.com,IIT Madras,Telangana,Cybersecurity,Day 2,The event was too fast-paced and overwhelming.
+307,Kiran Singh,kiran613@gmail.com,VIT Vellore,Tamil Nadu,IoT,Day 3,I expected more from the workshops.
+308,Aarav Reddy,aarav531@gmail.com,IIT Madras,Kerala,IoT,Day 3,"Didn't enjoy the event at all, poorly organized."
+309,Vihaan Sharma,vihaan597@gmail.com,BITS Pilani,Karnataka,Cybersecurity,Day 2,The event was too fast-paced and overwhelming.
+310,Kiran Verma,kiran326@yahoo.com,NIT Karnataka,Maharashtra,AI & ML,Day 3,"I didn't learn much, felt like a waste of time."
+311,Rohan Verma,rohan379@gmail.com,BITS Pilani,Karnataka,IoT,Day 3,Networking was amazing!
+312,Ananya Gupta,ananya375@outlook.com,IIT Madras,Karnataka,Web Development,Day 1,Loved the mentors and project guidance.
+313,Ananya Iyer,ananya939@yahoo.com,NIT Karnataka,Tamil Nadu,IoT,Day 2,"Didn't enjoy the event at all, poorly organized."
+314,Rohan Reddy,rohan120@gmail.com,NIT Karnataka,Tamil Nadu,Web Development,Day 2,"The event was okay, could have been better."
+315,Vihaan Das,vihaan806@outlook.com,VIT Vellore,Tamil Nadu,AI & ML,Day 3,"Event was decent, but nothing extraordinary."
+316,Vihaan Gupta,vihaan913@yahoo.com,NIT Karnataka,Maharashtra,AI & ML,Day 1,The sessions were informative but could be more detailed.
+317,Neha Patil,neha416@yahoo.com,NIT Karnataka,Tamil Nadu,Blockchain,Day 1,"Event was decent, but nothing extraordinary."
+318,Rahul Verma,rahul809@yahoo.com,IIT Madras,Kerala,AI & ML,Day 1,The sessions were informative but could be more detailed.
+319,Rahul Gupta,rahul677@yahoo.com,VIT Vellore,Telangana,IoT,Day 2,"I didn't learn much, felt like a waste of time."
+320,Sanya Singh,sanya819@outlook.com,VIT Vellore,Telangana,IoT,Day 1,Great experience! Learned a lot.
+321,Sanya Joshi,sanya857@outlook.com,IIT Madras,Karnataka,Blockchain,Day 1,Would love more hands-on sessions.
+322,Ishaan Gupta,ishaan492@gmail.com,IIT Madras,Maharashtra,IoT,Day 3,"Didn't enjoy the event at all, poorly organized."
+323,Neha Joshi,neha135@outlook.com,NIT Karnataka,Karnataka,Blockchain,Day 1,"Didn't enjoy the event at all, poorly organized."
+324,Aarav Verma,aarav906@yahoo.com,NIT Karnataka,Telangana,Blockchain,Day 3,"Fantastic event, would participate again."
+325,Neha Singh,neha274@yahoo.com,IIT Madras,Karnataka,AI & ML,Day 1,I expected more from the workshops.
+326,Rahul Nair,rahul230@yahoo.com,NIT Karnataka,Kerala,IoT,Day 1,"It was fine, but not very engaging."
+327,Vihaan Sharma,vihaan629@outlook.com,BITS Pilani,Maharashtra,Blockchain,Day 1,The sessions were not relevant to my interests.
+328,Neha Verma,neha254@outlook.com,NIT Karnataka,Maharashtra,IoT,Day 3,The event was too fast-paced and overwhelming.
+329,Ananya Gupta,ananya356@outlook.com,IIT Madras,Maharashtra,AI & ML,Day 2,"Event was decent, but nothing extraordinary."
+330,Rohan Iyer,rohan972@outlook.com,VIT Vellore,Telangana,IoT,Day 1,The sessions were informative but could be more detailed.
+331,Sanya Iyer,sanya848@outlook.com,NIT Karnataka,Telangana,Blockchain,Day 1,Great experience! Learned a lot.
+332,Neha Iyer,neha644@yahoo.com,BITS Pilani,Maharashtra,Blockchain,Day 2,"The venue was not suitable for the event, very uncomfortable."
+333,Kiran Singh,kiran203@gmail.com,BITS Pilani,Telangana,IoT,Day 2,Loved the mentors and project guidance.
+334,Priya Patil,priya562@outlook.com,BITS Pilani,Karnataka,Web Development,Day 1,"I didn't learn much, felt like a waste of time."
+335,Ananya Singh,ananya993@yahoo.com,VIT Vellore,Kerala,Web Development,Day 1,"The venue was not suitable for the event, very uncomfortable."
+336,Aarav Sharma,aarav592@yahoo.com,Anna University,Telangana,IoT,Day 1,"It was fine, but not very engaging."
+337,Ishaan Singh,ishaan938@outlook.com,BITS Pilani,Telangana,Cybersecurity,Day 3,The event was too fast-paced and overwhelming.
+338,Aarav Patil,aarav336@yahoo.com,VIT Vellore,Kerala,Blockchain,Day 2,"Event was decent, but nothing extraordinary."
+339,Ishaan Nair,ishaan178@outlook.com,IIT Madras,Maharashtra,Web Development,Day 2,The sessions were informative but could be more detailed.
+340,Kiran Nair,kiran233@outlook.com,VIT Vellore,Telangana,Cybersecurity,Day 2,"Fantastic event, would participate again."
+341,Rohan Iyer,rohan850@gmail.com,IIT Madras,Tamil Nadu,AI & ML,Day 1,"The event was okay, could have been better."
+342,Aarav Gupta,aarav813@yahoo.com,BITS Pilani,Tamil Nadu,Blockchain,Day 1,"The event was okay, could have been better."
+343,Rohan Reddy,rohan568@yahoo.com,BITS Pilani,Telangana,Web Development,Day 2,I expected more from the workshops.
+344,Ananya Nair,ananya860@yahoo.com,BITS Pilani,Maharashtra,Cybersecurity,Day 2,"Fantastic event, would participate again."
+345,Vihaan Singh,vihaan937@outlook.com,Anna University,Maharashtra,Web Development,Day 2,"The venue was not suitable for the event, very uncomfortable."
+346,Aarav Joshi,aarav366@outlook.com,NIT Karnataka,Tamil Nadu,IoT,Day 1,"Event was decent, but nothing extraordinary."
+347,Vihaan Verma,vihaan639@gmail.com,IIT Madras,Maharashtra,AI & ML,Day 2,"Event was decent, but nothing extraordinary."
+348,Sanya Joshi,sanya729@yahoo.com,IIT Madras,Tamil Nadu,Blockchain,Day 3,"Didn't enjoy the event at all, poorly organized."
+349,Priya Joshi,priya540@outlook.com,BITS Pilani,Kerala,Blockchain,Day 2,The event was too fast-paced and overwhelming.
+350,Sanya Iyer,sanya107@gmail.com,Anna University,Karnataka,Web Development,Day 2,The sessions were not relevant to my interests.
